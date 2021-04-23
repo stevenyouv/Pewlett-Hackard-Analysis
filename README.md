@@ -35,3 +35,8 @@ The purpose of this project is to perform analysis on employee data for a comput
  
 ![current_emp_by_title](https://user-images.githubusercontent.com/78937719/115837127-dd402300-a3dd-11eb-82e4-5eafdfc42a35.png)
 
+- In order to determine whether there are enough mentors, where mentors would be needed, and where to consider widening the criteria for mentorship, a query can be written and executed to determine how many mentors there are by title.  Below you can see that a vast majority of the mentors are either Staff/Senior Staff or Engineer/Senior Engineers and that there isn't a mentor for managers.  A different analysis will need to be done also to determine how long the mentorship would need to be for, how many employees can each mentor have, etc.  
+
+![mentorship_elig_by_title](https://user-images.githubusercontent.com/78937719/115839291-1c6f7380-a3e0-11eb-95a7-a148f3e034d4.png)
+
+
