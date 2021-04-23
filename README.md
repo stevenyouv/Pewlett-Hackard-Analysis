@@ -15,7 +15,7 @@ The purpose of this project is to perform analysis on employee data for a comput
 - Write basic- to intermediate-level SQL statements.
 
 ## Results
-![image](https://user-images.githubusercontent.com/78937719/115826129-0bb70180-a3d0-11eb-840c-c2c068a66191.png)
+ - Initially based on a query written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955 and a count of Employee IDs returned a result of 133,776
 
 
 ## Summary
