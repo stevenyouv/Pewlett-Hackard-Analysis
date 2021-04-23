@@ -31,3 +31,7 @@ The purpose of this project is to perform analysis on employee data for a comput
 
 
 ## Summary
+- To have a better understanding of how many and which roles will have the highest priority to fill over the next four years, a query can be written and executed to find out how many employees by title there are currently with the company.  Below you'll see that although the majority of those who are retiring are Senior Staff and Senior Engineers, there would still be over 50,000 employees in each position.  Most if not all of these positions can be backfilled by those with the title of Engineer, Assistant Engineers, and Staff.  The assumption is that the positions that these employees would vacate would be easier to fill.  
+ 
+![current_emp_by_title](https://user-images.githubusercontent.com/78937719/115837127-dd402300-a3dd-11eb-82e4-5eafdfc42a35.png)
+
