@@ -15,5 +15,7 @@ The purpose of this project is to perform analysis on employee data for a comput
 - Write basic- to intermediate-level SQL statements.
 
 ## Results
+![image](https://user-images.githubusercontent.com/78937719/115826129-0bb70180-a3d0-11eb-840c-c2c068a66191.png)
+
 
 ## Summary
