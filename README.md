@@ -27,6 +27,7 @@ The purpose of this project is to perform analysis on employee data for a comput
 
 - To help future proof the company, a query was written and executed to create a table for employees that would be eligible for mentorship.  The eligibility was based on all current employees that were born in 1965.  Based on this eligibility the query returned a total of 1,549 employees that would be eligible for mentorship.  
 
+![image](https://user-images.githubusercontent.com/78937719/115834970-67d35300-a3db-11eb-8623-c31ee01ee132.png)
 
 
 ## Summary
