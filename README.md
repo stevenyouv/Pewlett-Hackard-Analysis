@@ -18,4 +18,13 @@ The purpose of this project is to perform analysis on employee data for a comput
  - Initially based on a query written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955 and a count of Employee IDs returned a result of 133,776
 
 
+
+- It was discovered that many of the employees were duplicated as they promoted through different roles within the company which skewed the results for the total amount of employees retiring.  In order to get the true number of employees retiring, we needed to create a table that counted the employee in their most recent role.  After creating a new table based on retiring employees by last title with the company returned a total of 90,398 employees.
+
+- The number of retiring employees was broken down by current title.  By looking at the table, its observable that a more than half of the employees retiring have the job title of Senior Engineer or Senior Staff which of course makes sense if the designation is based on tenure. 
+
+- To help future proof the company, a query was written and executed to create a table for employees that would be eligible for mentorship.  The eligibility was based on all current employees that were born in 1965.  Based on this eligibility the query returned a total of 1,549 employees that would be eligible for mentorship.  
+
+
+
 ## Summary
