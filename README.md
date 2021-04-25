@@ -18,6 +18,7 @@ The purpose of this project is to perform analysis on employee data for a comput
  - Initially based on a query written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955 and a count of Employee IDs returned a result of 133,776
 
    ![image](https://user-images.githubusercontent.com/78937719/115834260-a583ac00-a3da-11eb-9d74-ee019c47e63d.png)
+   https://github.com/stevenyouv/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles.png?raw=true
 
 - It was discovered that many of the employees were duplicated as they promoted through different roles within the company which skewed the results for the total amount of employees retiring.  In order to get the true number of employees retiring, we needed to create a table that counted the employee in their most recent role.  After creating a new table based on retiring employees by last title with the company returned a total of 90,398 employees.
 
